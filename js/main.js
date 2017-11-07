@@ -3,7 +3,7 @@ var _acoes = [];
 var _produtos = [];
 var _regex_acoes = /comprar|saber|informações/gim;
 var _regex_produtos = /\w+$/gimu;
-var _regex_clientes = /^Oi,|eu|Sou|a|o]/gim;
+var _regex_clientes = /[Oi,\s|eu\s|Sou\s|a\s|o\s]|\w+/gim;
 var _regex_compra = /[^comprar o|a|um|uma]\w+$/gim;
 var _resultado = {
     acoes: 0,
