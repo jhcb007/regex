@@ -1,24 +1,22 @@
-{
-  "produtos": [
-    {
-      "nome": "computador Dell",
-      "preco": 1900.00
-    },
-    {
-      "nome": "TV LED",
-      "preco": 2600.00
-    },
-    {
-      "nome": "Tablet LG",
-      "preco": 800.00
-    },
-    {
-      "nome": "drone",
-      "preco": 860.54
-    },
-    {
-      "nome": "Monitor",
-      "preco": 1200.50
-    }
-  ]
-}
+[
+  {
+    "nome": "computador",
+    "preco": 1900.00
+  },
+  {
+    "nome": "TVLED",
+    "preco": 2600.00
+  },
+  {
+    "nome": "Tablet",
+    "preco": 800.00
+  },
+  {
+    "nome": "drone",
+    "preco": 860.54
+  },
+  {
+    "nome": "Monitor",
+    "preco": 1200.50
+  }
+]

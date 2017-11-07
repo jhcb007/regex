@@ -1,13 +1,11 @@
-{
-  "acoes": [
-    {
-      "nome": "saber"
-    },
-    {
-      "nome": "comprar"
-    },
-    {
-      "nome": "informações"
-    }
-  ]
-}
+[
+  {
+    "nome": "saber"
+  },
+  {
+    "nome": "comprar"
+  },
+  {
+    "nome": "informações"
+  }
+]
